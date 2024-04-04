@@ -1,0 +1,14 @@
+1- Officer Manager registers Dentists.
+
+2- Officer Manager enrolls new Patients.
+
+3- Patient can book online/call-in to request appointments to see a dentist. 
+
+4- Officer Manager can book the appointment and the system will send a confirmation email to Patient.
+
+5- Dentists sign-in to the system and view a listing of all their Appointments and patient details.
+
+6- Patients sign-in to the system and view their appointments and dentists details.
+
+7- Patients can request to cancel or change their appointments.
+
